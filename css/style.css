@@ -139,10 +139,123 @@ img {
    
 }
 }
-@media screen and (max-width: 768px) {  .row {
-    width: 60%;
+@media screen and (max-width: 768px) {  .text-center {
+   font-size: 25px;
+   
+}
+}
+@media screen and (max-width: 768px) {  h3 {
+    font-size: 2.5rem;
+    
+ }
+ }
+ @media screen and (max-width: 768px) {  h2 {
+    font-size: 3rem;
+    
+ }
+ }
+ @media screen and (max-width: 768px) { .site-header h1 {
+    font-size: 4rem;
+    
+ }
+ }
+ @media screen and (max-width: 768px) { .why-us h2 {
+    font-size: 3rem;
+    
+ }
+ }
+ @media screen and (max-width: 768px) { .col.col-right ul li p {
+    font-size: 1.5rem;
+    
+ }
+ }
+
+
+
+/************************************************
+   RESPONSIVE
+************************************************/
+
+@media screen and (max-width: 480px) {  .site-header h1 {
+    font-size: 7rem;
+}
+}
+@media screen and (max-width: 480px) {  .container {
+    min-height: 1100px;
     margin: 0 auto;
    
 }
 }
+@media screen and (max-width: 480px) {  .row {
+    gap: 70px
+}
+}
+@media screen and (max-width: 480px) {  main h2 {
+    font-size: 70px;
+}
+}
+@media screen and (max-width: 480px) {  .lessons .col {
+   width: 100%;
+}
+}
+@media screen and (max-width: 480px) {  .lessons .col img {
+    height: 400px;
+ }
+ }
+@media screen and (max-width: 480px) {  .row {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+}
+@media screen and (max-width: 480px) {  .card h3 {
+   font-size: 4rem ;
+   
+}
+}
+@media screen and (max-width: 480px) {  .card p {
+    font-size: 50px ;
+    
+ }
+ }
 
+ @media screen and (max-width: 480px) {  .steps .col {
+    width: 100%;
+    
+ }
+ }
+ @media screen and (max-width: 480px) {  .steps h2 {
+    font-size: 95px;
+    
+ }
+ }
+
+ @media screen and (max-width: 480px) {  .steps .col img {
+    width: 664px; 
+ }
+ }
+ @media screen and (max-width: 480px) {  .col.col-right ul li p {
+    font-size: 2.5rem; 
+ }
+ }
+ @media screen and (max-width: 480px) {  .why-us li h3 {
+    font-size: 3.5rem; 
+ }
+ }
+ @media screen and (max-width: 480px) {  .why-us  h2 {
+    font-size: 4rem; 
+ }
+ }
+ @media screen and (max-width: 480px) {  .why-us .col-left {
+    width: 100%;
+    text-align: center; 
+ }
+ }
+ @media screen and (max-width: 480px) {  .steps .col img {
+    height: 450px;
+    margin-bottom: 1.5rem;
+ }
+ }
+ 
