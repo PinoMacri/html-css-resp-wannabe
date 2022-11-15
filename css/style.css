@@ -125,5 +125,18 @@ img {
 }
 
 /************************************************
-    SOLUZIONE RESPONSIVE
- ************************************************/
+   RESPONSIVE
+************************************************/
+@media screen and (max-width: 1920px) {  body {
+    min-width: 1140px;
+    margin: 0 auto;
+   
+}
+}
+@media screen and (max-width: 768px) {  .row {
+    width: 60%;
+    margin: 0 auto;
+   
+}
+}
+
